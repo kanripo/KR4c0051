@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 3
 #+PROPERTY: FILE SB04n0164-003劉夢得文集-卷第三.
 <pb:KR4c0051_SBCK_003-1a>¶
+# SB1_0693-078.png
 劉夢得文集卷第三¶
 　　律詩¶
 　　　春日退朝　經九公主舊院作¶
@@ -243,6 +244,7 @@
 #+PROPERTY: JUAN 3
 #+PROPERTY: FILE SB04n0165-003劉夢得文集外集-卷第三.
 <pb:KR4c0051_SBCK_003-1a>¶
+# SB1_0699-040.png
 劉夢得外集卷第三¶
 　　詩¶
 　　　汴州新政書事　對紫微花¶
