@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 5
 #+PROPERTY: FILE SB04n0164-005劉夢得文集-卷第五.
 <pb:KR4c0051_SBCK_005-1a>¶
+# SB1_0694-002.png
 劉夢得文集卷第五¶
 　　雜體詩¶
 　　　翠微寺有感　觀莫傜獵西山¶
@@ -258,6 +259,7 @@
 #+PROPERTY: JUAN 5
 #+PROPERTY: FILE SB04n0165-005劉夢得文集外集-卷第五.
 <pb:KR4c0051_SBCK_005-1a>¶
+# SB1_0699-116.png
 劉夢得外集卷第五¶
 　　雜詩¶
 　　　赴上都贈別　秋日&KR0009;懷¶

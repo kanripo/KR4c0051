@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 10
 #+PROPERTY: FILE SB04n0164-010劉夢得文集-卷第十.
 <pb:KR4c0051_SBCK_010-1a>¶
+# SB1_0695-002.png
 劉夢得文集卷第十¶
 　　哀挽¶
 　　　德宗挽歌　敬宗挽歌¶
@@ -29,7 +30,11 @@
 見屬車塵¶
 鳯翣擁銘旌威遲異吉行漢儀陳秘器楚挽咽¶
 <pb:KR4c0051_SBCK_010-2a>¶
+# SB1_0695-004.png
+# page missing
 <pb:KR4c0051_SBCK_010-3a>¶
+# SB1_0695-005.png
+# page missing
 <pb:KR4c0051_SBCK_010-4a>¶
 容全日下初陵外人悲舊劒前周南有遺老掩¶
 淚望秦川¶
@@ -197,6 +202,7 @@
 #+PROPERTY: JUAN 10
 #+PROPERTY: FILE SB04n0165-010劉夢得文集外集-卷第十.
 <pb:KR4c0051_SBCK_010-1a>¶
+# SB1_0700-112.png
 劉夢得外集卷第十¶
 　　墓誌祭文¶
 　　　故董府君墓誌　絶編生墓表¶

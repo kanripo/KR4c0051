@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 6
 #+PROPERTY: FILE SB04n0164-006劉夢得文集-卷第六.
 <pb:KR4c0051_SBCK_006-1a>¶
+# SB1_0694-026.png
 劉夢得文集卷第六¶
 　　送別詩¶
 　　　送張侍郎　送楊侍御¶
@@ -395,6 +396,7 @@
 #+PROPERTY: JUAN 6
 #+PROPERTY: FILE SB04n0165-006劉夢得文集外集-卷第六.
 <pb:KR4c0051_SBCK_006-1a>¶
+# SB1_0700-002.png
 劉夢得外集卷第六¶
 　　律詩¶
 　　　遊道林嶽麓寺　和韓元二君子¶

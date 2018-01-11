@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 8
 #+PROPERTY: FILE SB04n0164-008劉夢得文集-卷第八.
 <pb:KR4c0051_SBCK_008-1a>¶
+# SB1_0694-092.png
 劉夢得文集卷第八¶
 　　樂府¶
 　　　　團扇歌　荆州歌¶
@@ -238,6 +239,7 @@
 #+PROPERTY: JUAN 8
 #+PROPERTY: FILE SB04n0165-008劉夢得文集外集-卷第八.
 <pb:KR4c0051_SBCK_008-1a>¶
+# SB1_0700-048.png
 劉夢得外集卷第八¶
 　　律詩¶
 　　　　&KR0009;楊給事　巫山神女廟¶

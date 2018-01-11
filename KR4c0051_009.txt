@@ -7,6 +7,7 @@
 #+PROPERTY: JUAN 9
 #+PROPERTY: FILE SB04n0164-009劉夢得文集-卷第九.
 <pb:KR4c0051_SBCK_009-1a>¶
+# SB1_0694-114.png
 劉夢得文集卷第九¶
 　　樂府¶
 　　　泰娘歌　秋扇詞¶
@@ -275,9 +276,12 @@
 劉夢得文集卷第九¶
 <pb:KR4c0051_SBCK_009-13b>¶
 <pb:KR4c0051_SBCK_009-13b>¶
+# SB1_0694-140.png
+
 #+PROPERTY: JUAN 9
 #+PROPERTY: FILE SB04n0165-009劉夢得文集外集-卷第九.
 <pb:KR4c0051_SBCK_009-1a>¶
+# SB1_0700-082.png
 劉夢得外集卷第九¶
 　　表述引傳碑¶
 　　　論西戎表　謝上連州刺史表¶
